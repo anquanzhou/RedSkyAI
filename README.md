@@ -3,8 +3,16 @@
 ## 1. 系统概述
 
 ### 1.1 系统定位
+<img width="876" height="810" alt="ScreenShot_2026-04-13_150502_198" src="https://github.com/user-attachments/assets/a261a5e3-f7fe-4906-8f0f-9d9a7985f91f" />
 
 RedSky AI（赤霄安全）是一款企业级 AI 原生安全测试平台，基于先进的人工智能技术和安全测试方法论，为企业提供全方位的安全测试、风险评估和态势感知能力。系统融合了 AI 智能体、安全工具链和可视化技术，实现了安全测试的智能化、自动化和可视化。
+<img width="2325" height="1035" alt="image" src="https://github.com/user-attachments/assets/3dc36967-cdf1-4392-a4ac-8e67027f616a" /><img width="2325" height="1095" alt="image" src="https://github.com/user-attachments/assets/94dab71d-b1fb-4e17-a732-37f3ddacaf1b" />
+<img width="1770" height="483" alt="image" src="https://github.com/user-attachments/assets/d02587ae-0fbf-4acf-82b2-a02e8604a386" />
+<img width="2331" height="1140" alt="image" src="https://github.com/user-attachments/assets/8e1eb7f6-25bb-4f89-a64a-4351812d66d6" />
+<img width="2027" height="1029" alt="image" src="https://github.com/user-attachments/assets/03b3f6e5-6b83-43f7-8f49-ff39c4526efe" />
+<img width="2058" height="1041" alt="image" src="https://github.com/user-attachments/assets/198f925e-819c-4b55-8cd4-d3608978ce8e" />
+<img width="1761" height="924" alt="image" src="https://github.com/user-attachments/assets/a41427f6-dec0-4d38-972c-85251f7c1d70" />
+
 
 ### 1.2 设计理念
 
